@@ -1,7 +1,7 @@
 # covid-19
 
 
-![](preview.jpeg)
+![](preview.jpg)
 
 
 ## Project setup
