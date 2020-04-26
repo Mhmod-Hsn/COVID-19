@@ -20,9 +20,9 @@ Vue.use(Vuesax, {});
 import 'material-icons/iconfont/material-icons.css';
 
 
-Vue.config.productionTip = false
+Vue.config.productionTip = false;
 
 new Vue({
   router,
   render: h => h(App)
-}).$mount('#app')
+}).$mount('#app');
