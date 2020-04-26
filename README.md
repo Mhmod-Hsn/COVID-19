@@ -1,5 +1,9 @@
 # covid-19
 
+
+![](preview.jpg)
+
+
 ## Project setup
 ```
 npm install
